@@ -5,7 +5,8 @@
 
 Welcome to the **Full Stack Realtime Chat App** project, where we're building a scalable and secure real-time chat experience using the latest technologies. Whether you're a seasoned developer or a beginner, we invite you to contribute and be a part of this exciting journey!
 
-## Chatty_Client_Interactive_Flow_Presentation.html
+## ChatApp_Project_Workflow_Architecture_Diagram
+
 
 <img width="1376" height="768" alt="ChatApp_Project_Workflow_Architecture_Diagram" src="https://github.com/user-attachments/assets/8c5a8b45-0dad-42d2-9ae2-c88f599432d7" />
  
