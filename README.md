@@ -9,15 +9,7 @@ Welcome to the **Full Stack Realtime Chat App** project, where we're building a 
 ## Table of Contents
 
 
-* [Introduction](#introduction)
-* [Features](#features)
-* [Tech Stack](#tech-stack)
-* [Getting Started](#getting-started)
-* [Building the Backend](#building-the-backend)
-* [Running the Application](#running-the-application)
-* [Contributing](#contributing)
-* [Future Plans](#future-plans)
-* [License](#license)
+
 
 ## 📝 Introduction
 
