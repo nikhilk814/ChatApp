@@ -1,4 +1,4 @@
-
+<img width="1376" height="768" alt="ChatApp_LinkedIn_Showcase_Banner" src="https://github.com/user-attachments/assets/1d00b7f2-9767-433f-87b8-0601a71f08d8" />
 
 # Real-Time Chat Application
 
@@ -7,9 +7,8 @@ Welcome to the **Full Stack Realtime Chat App** project, where we're building a 
 
 ## Chatty_Client_Interactive_Flow_Presentation.html
 
-file:///C:/Users/Nikhil/Downloads/Chatty_Client_Interactive_Flow_Presentation.html
-
-
+![mermaid-diagram](https://github.com/user-attachments/assets/0b19df9b-2693-4ee1-a4ea-012c5f33eff6)
+ 
 ## 📝 Introduction
 
 This project aims to provide a real-time chat experience that's both scalable and secure. With a focus on modern technologies, we're building an application that's easy to use and maintain.
