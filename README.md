@@ -7,7 +7,7 @@ Welcome to the **Full Stack Realtime Chat App** project, where we're building a 
 
 ## Chatty_Client_Interactive_Flow_Presentation.html
 
-![mermaid-diagram](https://github.com/user-attachments/assets/0b19df9b-2693-4ee1-a4ea-012c5f33eff6)
+<img width="1376" height="768" alt="ChatApp_Project_Workflow_Architecture_Diagram" src="https://github.com/user-attachments/assets/8c5a8b45-0dad-42d2-9ae2-c88f599432d7" />
  
 ## 📝 Introduction
 
@@ -23,9 +23,7 @@ This project aims to provide a real-time chat experience that's both scalable an
 * **Profile Management**: Users can upload and update their profile pictures 
 * **Online Status**: View real-time online/offline status of users 
 
-
 ## 🛠️ Tech Stack
-
 
 * **Backend:** Node.js, Express, MongoDB, Socket.io
 * **Frontend:** React, TailwindCSS
@@ -36,7 +34,6 @@ This project aims to provide a real-time chat experience that's both scalable an
 * **Authentication:** JWT
 * **Styling Components:** DaisyUI
 
-
 ### Business & Technical Highlights Summary
 | Dimension | Technical Implementation | Business Value |
 | --- | --- | --- |
@@ -45,7 +42,6 @@ This project aims to provide a real-time chat experience that's both scalable an
 | Security & Auth | Dual-Auth (Root HttpOnly Cookie + Axios Bearer Interceptor) | Resilient against XSS/CSRF while eliminating authorization drops. |
 | High Availability | Kubernetes Kind + Nginx Ingress + PVC Volumes | Automated crash recovery and zero data loss on restarts. |
 | CI/CD Automation | Jenkins Declarative Pipeline + Docker Multi-Stage Builds | Rapid, automated testing and push-to-deploy workflow. |
-
 
 
 ### 📝 Environment Configuration
